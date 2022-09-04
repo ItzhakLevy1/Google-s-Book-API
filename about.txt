@@ -1,0 +1,8 @@
+Tech Stack:
+HTML, CSS, JavaScript.
+
+Database: None.
+
+Hosted on: Github Pges.
+
+https://itzhaklevy1.github.io/Google-Book-API/
